@@ -1,2 +1,2 @@
 #!/bin/bash
-realpath <filename>
+realpath 0-current_working_directory
