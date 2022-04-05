@@ -1,2 +1,2 @@
 #!/bin/bash
-expr 12 + $TRUEKNOWLEDGE
+num=12; sum=$(expr $num + $TRUEKNOWLEDGE); echo $sum;
