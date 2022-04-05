@@ -1,2 +1,2 @@
 #!/bin/bash
-num=12; sum=$(expr $num + $TRUEKNOWLEDGE); echo $sum;
+echo "$((128+TRUEKNOWLEDGE))"
